@@ -1,4 +1,4 @@
-# Breakout Clone (Tolvugrafik PA2)
+# Breakout
 
 A Python-based 2D Breakout-style game created as an assignment for the course Tölvugrafík in Reykjavík University, winter 2025.
 The project combines real-time rendering, input handling, and custom collision detection to recreate classic arcade gameplay using Python and OpenGL.
